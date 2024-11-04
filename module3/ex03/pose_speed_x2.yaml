@@ -1,0 +1,5826 @@
+x: 7.356016159057617
+y: 5.910465240478516
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.382852554321289
+y: 5.9278950691223145
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.409689426422119
+y: 5.945324420928955
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.436526298522949
+y: 5.962753772735596
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.463363170623779
+y: 5.9801836013793945
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.490199565887451
+y: 5.997612953186035
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.517036437988281
+y: 6.015042781829834
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.543873310089111
+y: 6.032472133636475
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.570710182189941
+y: 6.049901962280273
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.597546577453613
+y: 6.067331314086914
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.624383449554443
+y: 6.084760665893555
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.651220321655273
+y: 6.1021904945373535
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.678056716918945
+y: 6.119619846343994
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.704893589019775
+y: 6.137049674987793
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.7317304611206055
+y: 6.154479026794434
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.7585673332214355
+y: 6.171908855438232
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.5759999752044678
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.6079999804496765
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.6399999856948853
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.671999990940094
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.7039999961853027
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.7360000014305115
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.7680000066757202
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.800000011920929
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.8320000171661377
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.8640000224113464
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.9279999732971191
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.9599999785423279
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 0.9919999837875366
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 1.0240000486373901
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 1.055999994277954
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 1.0880000591278076
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 1.1200000047683716
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 1.1519999504089355
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 1.184000015258789
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 1.215999960899353
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 1.2480000257492065
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.785403728485107
+y: 6.189338207244873
+theta: 1.2799999713897705
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.794578552246094
+y: 6.21999454498291
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.803753852844238
+y: 6.2506513595581055
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.812928676605225
+y: 6.281307697296143
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.822103500366211
+y: 6.31196403503418
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.831278324127197
+y: 6.342620849609375
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.840453147888184
+y: 6.373277187347412
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.84962797164917
+y: 6.403934001922607
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.858802795410156
+y: 6.4345903396606445
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.867977619171143
+y: 6.465246677398682
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.877152919769287
+y: 6.495903491973877
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.886327743530273
+y: 6.526559829711914
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.89550256729126
+y: 6.557216167449951
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.904677391052246
+y: 6.5878729820251465
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.913852214813232
+y: 6.618529319763184
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.923027038574219
+y: 6.649185657501221
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.932201862335205
+y: 6.679842472076416
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.941376686096191
+y: 6.710498809814453
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.950551986694336
+y: 6.74115514755249
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.959726810455322
+y: 6.7718119621276855
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.968901634216309
+y: 6.802468299865723
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.978076457977295
+y: 6.833125114440918
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.987251281738281
+y: 6.863781452178955
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.996426105499268
+y: 6.894437789916992
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.005600929260254
+y: 6.9250946044921875
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.014776229858398
+y: 6.955750942230225
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.023950576782227
+y: 6.986407279968262
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.033125877380371
+y: 7.017064094543457
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.0423002243042
+y: 7.047720432281494
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.051475524902344
+y: 7.078376770019531
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.060650825500488
+y: 7.109033584594727
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.069825172424316
+y: 7.139689922332764
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.079000473022461
+y: 7.170346260070801
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.088174819946289
+y: 7.201003074645996
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.097350120544434
+y: 7.231659412384033
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.106524467468262
+y: 7.2623162269592285
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.115699768066406
+y: 7.292972564697266
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.12487506866455
+y: 7.323628902435303
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.134049415588379
+y: 7.354285717010498
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.143224716186523
+y: 7.384942054748535
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.2799999713897705
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.312000036239624
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.343999981880188
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.3760000467300415
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.4079999923706055
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.440000057220459
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.472000002861023
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.503999948501587
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.5360000133514404
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.5679999589920044
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.600000023841858
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.6319999694824219
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.6640000343322754
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.6959999799728394
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.7280000448226929
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.7599999904632568
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.7920000553131104
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.8240000009536743
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.8559999465942383
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.8880000114440918
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.9199999570846558
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.9520000219345093
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 1.9839999675750732
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 2.0160000324249268
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.152399063110352
+y: 7.415598392486572
+theta: 2.0480000972747803
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 8.137701988220215
+y: 7.444023609161377
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.123003959655762
+y: 7.472448825836182
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.108306884765625
+y: 7.500873565673828
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.093608856201172
+y: 7.529298782348633
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.078911781311035
+y: 7.5577239990234375
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.064214706420898
+y: 7.586148738861084
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.049516677856445
+y: 7.614573955535889
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.034819602966309
+y: 7.642998695373535
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.020121574401855
+y: 7.67142391204834
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 8.005424499511719
+y: 7.6998491287231445
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.990726947784424
+y: 7.728273868560791
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.976029396057129
+y: 7.756699085235596
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.961331844329834
+y: 7.7851243019104
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.946634292602539
+y: 7.813549041748047
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.931936740875244
+y: 7.841974258422852
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.917239189147949
+y: 7.870399475097656
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.902541637420654
+y: 7.898824214935303
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.887844085693359
+y: 7.927249431610107
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.8731465339660645
+y: 7.955674648284912
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.8584489822387695
+y: 7.984099388122559
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.843751907348633
+y: 8.012524604797363
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.829054355621338
+y: 8.040949821472168
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.814356803894043
+y: 8.069375038146973
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.799659252166748
+y: 8.097799301147461
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.784961700439453
+y: 8.126224517822266
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.770264148712158
+y: 8.15464973449707
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.755566596984863
+y: 8.183074951171875
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.740869045257568
+y: 8.21150016784668
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.726171493530273
+y: 8.239925384521484
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.7114739418029785
+y: 8.268349647521973
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.696776866912842
+y: 8.296774864196777
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.682079315185547
+y: 8.325200080871582
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.667381763458252
+y: 8.353625297546387
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.652684211730957
+y: 8.382050514221191
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.0480000972747803
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.0799999237060547
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.111999988555908
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.1440000534057617
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.1760001182556152
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.2079999446868896
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.240000009536743
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.2720000743865967
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.303999900817871
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.3359999656677246
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.368000030517578
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.4000000953674316
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.431999921798706
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.4639999866485596
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.496000051498413
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.5280001163482666
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.559999942779541
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.5920000076293945
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.637986660003662
+y: 8.41047477722168
+theta: 2.624000072479248
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 7.610177993774414
+y: 8.426308631896973
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.582369804382324
+y: 8.44214153289795
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.554561614990234
+y: 8.457975387573242
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.526752948760986
+y: 8.473808288574219
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.4989447593688965
+y: 8.489641189575195
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.471136093139648
+y: 8.505475044250488
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.443327903747559
+y: 8.521307945251465
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.4155192375183105
+y: 8.537141799926758
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.387711048126221
+y: 8.552974700927734
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.359902381896973
+y: 8.568807601928711
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.332094192504883
+y: 8.584641456604004
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.304285526275635
+y: 8.60047435760498
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.276477336883545
+y: 8.616307258605957
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.248668670654297
+y: 8.63214111328125
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.220860481262207
+y: 8.647974014282227
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.193052291870117
+y: 8.66380786895752
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.165243625640869
+y: 8.679640769958496
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.624000072479248
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.5920000076293945
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.559999942779541
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.5280001163482666
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.496000051498413
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.4639999866485596
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.431999921798706
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.4000000953674316
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.368000030517578
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.3359999656677246
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.303999900817871
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.2720000743865967
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.240000009536743
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.2079999446868896
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.1760001182556152
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.1440000534057617
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.111999988555908
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.0799999237060547
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.0480000972747803
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 2.0160000324249268
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 1.9839999675750732
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 1.9520000219345093
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 1.9199999570846558
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 1.8880000114440918
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 1.8559999465942383
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 1.8240000009536743
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 1.7920000553131104
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 1.7599999904632568
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 1.7280000448226929
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.137435436248779
+y: 8.695473670959473
+theta: 1.6959999799728394
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 7.133439064025879
+y: 8.72722339630127
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.129443168640137
+y: 8.758973121643066
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.1254472732543945
+y: 8.790722846984863
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.121450901031494
+y: 8.822471618652344
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.117455005645752
+y: 8.85422134399414
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.11345911026001
+y: 8.885971069335938
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.109462738037109
+y: 8.917720794677734
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.105466842651367
+y: 8.949470520019531
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.101470947265625
+y: 8.981219291687012
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.097474575042725
+y: 9.012969017028809
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.093478679656982
+y: 9.044718742370605
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.089482307434082
+y: 9.076468467712402
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.08548641204834
+y: 9.108217239379883
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.081490516662598
+y: 9.13996696472168
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.077494144439697
+y: 9.171716690063477
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.073498249053955
+y: 9.203466415405273
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.069502353668213
+y: 9.23521614074707
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.0655059814453125
+y: 9.26696491241455
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.06151008605957
+y: 9.298714637756348
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.057514190673828
+y: 9.330464363098145
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.053517818450928
+y: 9.362214088439941
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.0495219230651855
+y: 9.393962860107422
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.045526027679443
+y: 9.425712585449219
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.041529655456543
+y: 9.457462310791016
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.037533760070801
+y: 9.489212036132812
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.033537864685059
+y: 9.52096176147461
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.029541492462158
+y: 9.55271053314209
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.025545597076416
+y: 9.584460258483887
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.021549701690674
+y: 9.616209983825684
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.017553329467773
+y: 9.64795970916748
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.013557434082031
+y: 9.679708480834961
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.009561538696289
+y: 9.711458206176758
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.005565166473389
+y: 9.743207931518555
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 7.0015692710876465
+y: 9.774957656860352
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.997573375701904
+y: 9.806707382202148
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.993577003479004
+y: 9.838456153869629
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 1.6959999799728394
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 1.7280000448226929
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 1.7599999904632568
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 1.7920000553131104
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 1.8240000009536743
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 1.8559999465942383
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 1.8880000114440918
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 1.9199999570846558
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 1.9520000219345093
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 1.9839999675750732
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.0160000324249268
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.0480000972747803
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.0799999237060547
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.111999988555908
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.1440000534057617
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.1760001182556152
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.2079999446868896
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.240000009536743
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.2720000743865967
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.303999900817871
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.3359999656677246
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.368000030517578
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.4000000953674316
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.431999921798706
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.4639999866485596
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.496000051498413
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.5280001163482666
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.559999942779541
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.5920000076293945
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.624000072479248
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.6559998989105225
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.687999963760376
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.7200000286102295
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.752000093460083
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.7839999198913574
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.815999984741211
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.8480000495910645
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.880000114440918
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.9119999408721924
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.944000005722046
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 2.9760000705718994
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 3.007999897003174
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.989581108093262
+y: 9.870205879211426
+theta: 3.0399999618530273
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.9577460289001465
+y: 9.873451232910156
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.925910949707031
+y: 9.876696586608887
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.894075870513916
+y: 9.879941940307617
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.862241268157959
+y: 9.883187294006348
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.830406188964844
+y: 9.886432647705078
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.7985711097717285
+y: 9.889678001403809
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.766736030578613
+y: 9.892923355102539
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.734900951385498
+y: 9.89616870880127
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.703065872192383
+y: 9.8994140625
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.671231269836426
+y: 9.90265941619873
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.6393961906433105
+y: 9.905904769897461
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: 3.0399999618530273
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: 3.072000026702881
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: 3.1040000915527344
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: 3.135999917984009
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: -3.115185260772705
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: -3.0831851959228516
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: -3.051185369491577
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: -3.0191853046417236
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: -2.98718523979187
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: -2.9551854133605957
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.607561111450195
+y: 9.909150123596191
+theta: -2.923185348510742
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.576321125030518
+y: 9.902216911315918
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.545081615447998
+y: 9.895283699035645
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.51384162902832
+y: 9.888349533081055
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.482601642608643
+y: 9.881416320800781
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.451362133026123
+y: 9.874482154846191
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.420122146606445
+y: 9.867548942565918
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.388882637023926
+y: 9.860614776611328
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.357642650604248
+y: 9.853681564331055
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.32640266418457
+y: 9.846748352050781
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.295163154602051
+y: 9.839814186096191
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.263923168182373
+y: 9.832880973815918
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.2326836585998535
+y: 9.825946807861328
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.201443672180176
+y: 9.819013595581055
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.170203685760498
+y: 9.812080383300781
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.1389641761779785
+y: 9.805146217346191
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.107724189758301
+y: 9.798213005065918
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.076484203338623
+y: 9.791278839111328
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.0452446937561035
+y: 9.784345626831055
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.014004707336426
+y: 9.777412414550781
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.982765197753906
+y: 9.770478248596191
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.9515252113342285
+y: 9.763545036315918
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: -2.923185348510742
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: -2.9551854133605957
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: -2.98718523979187
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: -3.0191853046417236
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: -3.051185369491577
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: -3.0831851959228516
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: -3.115185260772705
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 3.135999917984009
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 3.1040000915527344
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 3.072000026702881
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 3.0399999618530273
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 3.007999897003174
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 2.9760000705718994
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 2.944000005722046
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 2.9119999408721924
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 2.880000114440918
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 2.8480000495910645
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 2.815999984741211
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 2.7839999198913574
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.920285224914551
+y: 9.756610870361328
+theta: 2.752000093460083
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.890683174133301
+y: 9.768765449523926
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.861081123352051
+y: 9.780919075012207
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.831479072570801
+y: 9.793072700500488
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.801877021789551
+y: 9.805227279663086
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.772274971008301
+y: 9.817380905151367
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.742672920227051
+y: 9.829535484313965
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.713071346282959
+y: 9.841689109802246
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.683469295501709
+y: 9.853842735290527
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.653867244720459
+y: 9.865997314453125
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.624265193939209
+y: 9.878150939941406
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.594663143157959
+y: 9.890304565429688
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.565061092376709
+y: 9.902459144592285
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.535459041595459
+y: 9.914612770080566
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.505856990814209
+y: 9.926766395568848
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.476254940032959
+y: 9.938920974731445
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.446652889251709
+y: 9.951074600219727
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.417050838470459
+y: 9.963229179382324
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.387448787689209
+y: 9.975382804870605
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.357846736907959
+y: 9.987536430358887
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.328244686126709
+y: 9.999691009521484
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.298642635345459
+y: 10.011844635009766
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.752000093460083
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.7839999198913574
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.815999984741211
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.8480000495910645
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.880000114440918
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.9119999408721924
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.944000005722046
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.9760000705718994
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 3.007999897003174
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 3.0399999618530273
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 3.072000026702881
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 3.1040000915527344
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 3.135999917984009
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 3.1040000915527344
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 3.072000026702881
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 3.0399999618530273
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 3.007999897003174
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.9760000705718994
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.944000005722046
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.9119999408721924
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.880000114440918
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.8480000495910645
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.815999984741211
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.7839999198913574
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.752000093460083
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.7200000286102295
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.687999963760376
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.6559998989105225
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.624000072479248
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.5920000076293945
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.559999942779541
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.5280001163482666
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.496000051498413
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.4639999866485596
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.431999921798706
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.4000000953674316
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.368000030517578
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.3359999656677246
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.303999900817871
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.2720000743865967
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.240000009536743
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.2079999446868896
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.1760001182556152
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.1440000534057617
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.111999988555908
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.0799999237060547
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.0480000972747803
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 2.0160000324249268
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.9839999675750732
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.9520000219345093
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.9199999570846558
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.8880000114440918
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.8559999465942383
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.8240000009536743
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.7920000553131104
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.7599999904632568
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.7280000448226929
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.6959999799728394
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.6640000343322754
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.6319999694824219
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.600000023841858
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.5679999589920044
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.5360000133514404
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.503999948501587
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.472000002861023
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.440000057220459
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.4079999923706055
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.3760000467300415
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.343999981880188
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.312000036239624
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.2799999713897705
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.2480000257492065
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.269040584564209
+y: 10.023998260498047
+theta: 1.215999960899353
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.280157089233398
+y: 10.05400562286377
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.291274070739746
+y: 10.084012031555176
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.3023905754089355
+y: 10.114019393920898
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.313507556915283
+y: 10.144026756286621
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.324624538421631
+y: 10.174033164978027
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.33574104309082
+y: 10.20404052734375
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.346858024597168
+y: 10.234046936035156
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.357974529266357
+y: 10.264054298400879
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.369091510772705
+y: 10.294060707092285
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.380208492279053
+y: 10.324068069458008
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.391324996948242
+y: 10.35407543182373
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.40244197845459
+y: 10.384081840515137
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.413558483123779
+y: 10.41408920288086
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.424675464630127
+y: 10.444095611572266
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.435791969299316
+y: 10.474102973937988
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.446908950805664
+y: 10.504109382629395
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.458025932312012
+y: 10.534116744995117
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.469142436981201
+y: 10.56412410736084
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.480259418487549
+y: 10.594130516052246
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.491375923156738
+y: 10.624137878417969
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.502492904663086
+y: 10.654144287109375
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.513609409332275
+y: 10.684151649475098
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.524726390838623
+y: 10.714158058166504
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.535843372344971
+y: 10.744165420532227
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.54695987701416
+y: 10.77417278289795
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.558076858520508
+y: 10.804179191589355
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.569193363189697
+y: 10.834186553955078
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.580310344696045
+y: 10.864192962646484
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.591427326202393
+y: 10.894200325012207
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.602543830871582
+y: 10.924206733703613
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 1.215999960899353
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 1.184000015258789
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 1.1519999504089355
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 1.1200000047683716
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 1.0880000591278076
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 1.055999994277954
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 1.0240000486373901
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.9919999837875366
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.9599999785423279
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.9279999732971191
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.8640000224113464
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.8320000171661377
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.800000011920929
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.7680000066757202
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.7360000014305115
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.7039999961853027
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.671999990940094
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.6399999856948853
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.6079999804496765
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.5759999752044678
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.5440000295639038
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.5120000243186951
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.47999998927116394
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.4480000138282776
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.61366081237793
+y: 10.954214096069336
+theta: 0.41600000858306885
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.6429314613342285
+y: 10.967145919799805
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.672202110290527
+y: 10.980076789855957
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.701473236083984
+y: 10.993008613586426
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.730743885040283
+y: 11.005939483642578
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.760014533996582
+y: 11.018871307373047
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.789285659790039
+y: 11.0318021774292
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.818556308746338
+y: 11.044734001159668
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.847826957702637
+y: 11.05766487121582
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.877098083496094
+y: 11.070596694946289
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.906368732452393
+y: 11.083527565002441
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.935639381408691
+y: 11.088889122009277
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.41600000858306885
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.3840000033378601
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.35199999809265137
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.3199999928474426
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.2879999876022339
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.25600001215934753
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.2240000069141388
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.19200000166893005
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.1599999964237213
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.12800000607967377
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.09600000083446503
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.06400000303983688
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: 0.03200000151991844
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: -2.220446049250313e-16
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: -0.03200000151991844
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: -0.06400000303983688
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: -0.09600000083446503
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: -0.12800000607967377
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: -0.1599999964237213
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 5.996501445770264
+y: 11.08379077911377
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.028092861175537
+y: 11.078692436218262
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.0596842765808105
+y: 11.07359504699707
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.091275215148926
+y: 11.068496704101562
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.122866630554199
+y: 11.063398361206055
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.154458045959473
+y: 11.058300018310547
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.186049461364746
+y: 11.053201675415039
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.217640399932861
+y: 11.048103332519531
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.280823230743408
+y: 11.037907600402832
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.312414169311523
+y: 11.032809257507324
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.344005584716797
+y: 11.027710914611816
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.37559700012207
+y: 11.022612571716309
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.4071879386901855
+y: 11.0175142288208
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.438779354095459
+y: 11.01241683959961
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.470370769500732
+y: 11.007318496704102
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.501962184906006
+y: 11.002220153808594
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.533553123474121
+y: 10.997121810913086
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.5651445388793945
+y: 10.992023468017578
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.596735954284668
+y: 10.98692512512207
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.628326892852783
+y: 10.981827735900879
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.659918308258057
+y: 10.976729393005371
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.628326892852783
+y: 10.981827735900879
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.596735954284668
+y: 10.98692512512207
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.5651445388793945
+y: 10.992023468017578
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.533553123474121
+y: 10.997121810913086
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.501962184906006
+y: 11.002220153808594
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.470370769500732
+y: 11.007318496704102
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.438779354095459
+y: 11.01241683959961
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.4071879386901855
+y: 11.0175142288208
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.37559700012207
+y: 11.022612571716309
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.344005584716797
+y: 11.027710914611816
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.312414169311523
+y: 11.032809257507324
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.280823230743408
+y: 11.037907600402832
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.217640399932861
+y: 11.048103332519531
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.186049461364746
+y: 11.053201675415039
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.154458045959473
+y: 11.058300018310547
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.122866630554199
+y: 11.063398361206055
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.091275215148926
+y: 11.068496704101562
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.0596842765808105
+y: 11.07359504699707
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.028092861175537
+y: 11.078692436218262
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.996501445770264
+y: 11.08379077911377
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.996501445770264
+y: 11.08379077911377
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.028092861175537
+y: 11.078692436218262
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.0596842765808105
+y: 11.07359504699707
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.091275215148926
+y: 11.068496704101562
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.122866630554199
+y: 11.063398361206055
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.154458045959473
+y: 11.058300018310547
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.186049461364746
+y: 11.053201675415039
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.217640399932861
+y: 11.048103332519531
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.280823230743408
+y: 11.037907600402832
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.312414169311523
+y: 11.032809257507324
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.344005584716797
+y: 11.027710914611816
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.37559700012207
+y: 11.022612571716309
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.4071879386901855
+y: 11.0175142288208
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.37559700012207
+y: 11.022612571716309
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.344005584716797
+y: 11.027710914611816
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.312414169311523
+y: 11.032809257507324
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.280823230743408
+y: 11.037907600402832
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.217640399932861
+y: 11.048103332519531
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.186049461364746
+y: 11.053201675415039
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.154458045959473
+y: 11.058300018310547
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.122866630554199
+y: 11.063398361206055
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.091275215148926
+y: 11.068496704101562
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.0596842765808105
+y: 11.07359504699707
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.028092861175537
+y: 11.078692436218262
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.996501445770264
+y: 11.08379077911377
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.964910507202148
+y: 11.088889122009277
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 5.996501445770264
+y: 11.08379077911377
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.028092861175537
+y: 11.078692436218262
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.0596842765808105
+y: 11.07359504699707
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.091275215148926
+y: 11.068496704101562
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.122866630554199
+y: 11.063398361206055
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.154458045959473
+y: 11.058300018310547
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.186049461364746
+y: 11.053201675415039
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.217640399932861
+y: 11.048103332519531
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.1599999964237213
+linear_velocity: 2.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.19200000166893005
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.2240000069141388
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.25600001215934753
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.2879999876022339
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.3199999928474426
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.35199999809265137
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.3840000033378601
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.41600000858306885
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.4480000138282776
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.47999998927116394
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.5120000243186951
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.5440000295639038
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.5759999752044678
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.6079999804496765
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.6399999856948853
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.671999990940094
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.7039999961853027
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.7360000014305115
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.7680000066757202
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.800000011920929
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.8320000171661377
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.8640000224113464
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.9279999732971191
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.9599999785423279
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.9919999837875366
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -1.0240000486373901
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -1.055999994277954
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -1.0880000591278076
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -1.1200000047683716
+linear_velocity: 0.0
+angular_velocity: -2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -1.0880000591278076
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -1.055999994277954
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -1.0240000486373901
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.9919999837875366
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.9599999785423279
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.9279999732971191
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.8640000224113464
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.8320000171661377
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.800000011920929
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.7680000066757202
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.7360000014305115
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.7039999961853027
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.671999990940094
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.6399999856948853
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.6079999804496765
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.5759999752044678
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.5440000295639038
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.5120000243186951
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.47999998927116394
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.4480000138282776
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.41600000858306885
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.3840000033378601
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.35199999809265137
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.3199999928474426
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.2879999876022339
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.25600001215934753
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.2240000069141388
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.19200000166893005
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.1599999964237213
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.12800000607967377
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.09600000083446503
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.06400000303983688
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -0.03200000151991844
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: -2.220446049250313e-16
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.03200000151991844
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.06400000303983688
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.09600000083446503
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.12800000607967377
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.1599999964237213
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.19200000166893005
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.2240000069141388
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.25600001215934753
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.2879999876022339
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.3199999928474426
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.35199999809265137
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.3840000033378601
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.41600000858306885
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.4480000138282776
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.47999998927116394
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.5120000243186951
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.5440000295639038
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.5759999752044678
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.6079999804496765
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.6399999856948853
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.671999990940094
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.7039999961853027
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.7360000014305115
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.7680000066757202
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.800000011920929
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8320000171661377
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8640000224113464
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 2.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 6.249231815338135
+y: 11.04300594329834
+theta: 0.8960000276565552
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
